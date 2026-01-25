@@ -6,7 +6,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Building+AI-Powered+Solutions;Full+Stack+Development;Machine+Learning+Enthusiast;Problem+Solver+%26+Innovator" alt="Typing SVG" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Abhay-Yadav)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/abhay-yadav-508a48289)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhay-Yadav1)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhayadav1807@gmail.com)
 
@@ -197,7 +197,7 @@ Content-based filtering system using TF-IDF vectorization and cosine similarity 
 **🌟 Open to exciting opportunities and collaborations! 🌟**
 
 📧 **Email:** abhayadav1807@gmail.com  
-💼 **LinkedIn:** [Abhay Yadav](https://linkedin.com/in/Abhay-Yadav)  
+💼 **LinkedIn:** [Abhay Yadav](www.linkedin.com/in/abhay-yadav-508a48289)  
 🐱 **GitHub:** [@Abhay-Yadav1](https://github.com/Abhay-Yadav1)
 
 ---
